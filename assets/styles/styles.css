@@ -80,7 +80,7 @@ body {
 }
 
 .flow {
-  background: url("../images/flowers.jpg");
+  background: url("/assets/images/flowers.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
