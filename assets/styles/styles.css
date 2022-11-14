@@ -4,7 +4,7 @@ body {
 }
 
 .cuddle {
-  background: url("/assets/styles/images/wedding_couple.jpg");
+  background: url("/assets/images/wedding_couple.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
@@ -80,7 +80,7 @@ body {
 }
 
 .flow {
-  background: url("/assets/styles/images/flowers.jpg");
+  background: url("/assets/images/flowers.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
@@ -188,7 +188,7 @@ body {
 .fixed {
   background-color: #5a5757e9;
   align-items: center;
-  height: 5vh;
+  height: 4vh;
   bottom: 0;
   align-items: center;
   text-align: center;
@@ -204,7 +204,7 @@ ul {
   list-style: none;
   color: #000;
   gap: 27vw;
-  height: 5vh;
+  height: 3vh;
   background-color: #7a787829;
 }
 
