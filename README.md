@@ -12,7 +12,7 @@
 
 ## About
 
-This project provide information About  the wedding of Mrs Alvin and humphrey such as the Adress , wedding location .
+This project provide information About the wedding of Mrs Alvin and humphrey such as the Adress , wedding location .
 
 ## BUILT WITH
 
@@ -32,10 +32,6 @@ This project provide information About  the wedding of Mrs Alvin and humphrey su
     - To get a local copy up and running follow these simple example steps.
     - Clone this repository with `https://github.com/MALWICK/marriage-page` using your terminal or command line.
     - Change to the project directory by entering: - $ `cd cv ` in the terminal.
-
-## Live site
-
-[Link]()
 
 ## CONTRIBUTION
 
