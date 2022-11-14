@@ -26,6 +26,7 @@ This project provide information About the wedding of Mrs Alvin and humphrey suc
     -HTML
     -CSS
     -chrome
+    -firefox
 
 ## CLONE PROJECT
 
