@@ -44,8 +44,7 @@ body {
 
 .side {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 100%;
   border-radius: 1%;
   filter: grayscale(70%);
@@ -64,8 +63,8 @@ body {
 }
 
 .det {
-  margin: 1%;
-  width: auto;
+  margin: 2%;
+  width: 9%;
   height: 5vh;
   font-size: large;
   background-color: #000;
@@ -102,6 +101,7 @@ body {
   color: #fff4f4;
   font-size: 30px;
   display: block;
+  gap: 10%;
 }
 
 .dd {
@@ -155,7 +155,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: auto;
+  height: fit-content;
 }
 
 .poer {
@@ -165,7 +165,7 @@ body {
   display: flex;
   flex-direction: column;
   color: #fbf9f9;
-  height: 10vh;
+  height: 13vh;
 }
 
 .try:hover {
@@ -185,9 +185,9 @@ body {
 }
 
 .fixed {
-  background-color: #b5b5b5e9;
+  background-color: #e7e7e7e9;
   align-items: center;
-  height: 4vh;
+  height: 5vh;
   bottom: 0;
   text-align: center;
   position: fixed;
@@ -203,7 +203,6 @@ ul {
   color: #000;
   gap: 27vw;
   height: 3vh;
-  background-color: #7a787829;
 }
 
 .down {
@@ -214,9 +213,35 @@ ul {
 @media (max-width: 320px) {
   .try {
     margin: 1%;
-    width: 27vw;
+    width: 60vw;
     height: 7vh;
-    border: 2px solid #736f6f;
     border-radius: 10px;
+    margin-bottom: 20%;
+  }
+
+  .space {
+    display: block;
+  }
+
+  .side {
+    width: 70vw;
+    height: fit-content;
+  }
+
+  .levi {
+    font-size: small;
+  }
+
+  .fixed {
+    display: none;
+  }
+
+  .det {
+    width: 50vw;
+  }
+
+  .satz {
+    font-style: sans-serif;
+    font-size: 1.3rem;
   }
 }
