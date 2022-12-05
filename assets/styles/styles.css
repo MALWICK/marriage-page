@@ -1,6 +1,5 @@
 body {
   font-family: sans-serif;
-
 }
 
 .cuddle {
@@ -211,8 +210,6 @@ ul {
   color: #000;
 }
 
-
-
 @media (max-width: 768px) {
   .kissing {
     flex-direction: column;
@@ -223,15 +220,14 @@ ul {
     border-radius: 1%;
   }
 
-  .det{
+  .det {
     width: 20%;
   }
 
-  .try{
+  .try {
     width: 30vw;
   }
 }
-
 
 @media (max-width: 320px) {
   body {
@@ -273,7 +269,6 @@ ul {
     font-size: 1.3rem;
   }
 
-
   .cdl {
     line-height: 1.3;
   }
@@ -285,5 +280,4 @@ ul {
   .fin {
     margin-top: 20%;
   }
-
 }
