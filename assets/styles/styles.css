@@ -182,7 +182,6 @@ body {
   text-align: center;
   position: relative;
   padding-top: 2%;
-
 }
 
 .fixed {
@@ -228,7 +227,6 @@ ul {
   .try {
     width: 30vw;
   }
-
 }
 
 @media (max-width: 600px) {
@@ -280,10 +278,8 @@ ul {
     text-align: center;
   }
 
-  .poer{
+  .poer {
     height: 21vh;
     padding: 5%;
   }
-
 }
-
