@@ -58,8 +58,8 @@ body {
 
 .det {
   margin: 2%;
-  width: 10%;
-  height: 5vh;
+  width: 11.8%;
+  padding: 1.3%;
   font-size: large;
   background-color: #000;
   color: #fbf8f8;
@@ -182,6 +182,7 @@ body {
   text-align: center;
   position: relative;
   padding-top: 2%;
+
 }
 
 .fixed {
@@ -227,9 +228,10 @@ ul {
   .try {
     width: 30vw;
   }
+
 }
 
-@media (max-width: 320px) {
+@media (max-width: 600px) {
   body {
     display: block;
   }
@@ -262,6 +264,7 @@ ul {
 
   .det {
     width: 50vw;
+    padding: 4%;
   }
 
   .satz {
@@ -277,7 +280,10 @@ ul {
     text-align: center;
   }
 
-  .fin {
-    margin-top: 20%;
+  .poer{
+    height: 21vh;
+    padding: 5%;
   }
+
 }
+
