@@ -26,12 +26,12 @@ body {
   font-size: 35px;
 }
 
-.cdl h1 {
+h1 .cdl {
   font-size: 64px !important;
 }
 
 .kissing {
-  background-color: #ffdddd;
+  background-color: #ffdd;
   color: #000;
   font-size: 30px;
   text-align: center;
@@ -82,7 +82,6 @@ h6 {
   text-align: center;
   width: 100%;
   align-items: center;
-  /*   padding: 1%; */
 }
 
 .det {
@@ -187,7 +186,7 @@ h6 {
 }
 
 .ende {
-  background-color: #ffdddd !important;
+  background-color: #ffdd !important;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -348,8 +347,7 @@ ul {
     width: 55vw;
   }
 
-  .levi{
-    margin: 0 ;
+  .levi {
+    margin: 0;
   }
-
 }
